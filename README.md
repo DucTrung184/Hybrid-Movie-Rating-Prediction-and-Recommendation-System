@@ -35,7 +35,8 @@ Dự án được thực hiện toàn bộ trong một file Jupyter Notebook duy
   │ ├── file3.csv
   │ └── file4.csv
   ├── notebook.ipynb
-  ├── README.md└── requirements.txt 
+  ├── README.md
+  └── requirements.txt 
   ``` </pre>
 
 - `Documents`: Chứa báo cáo và slide thuyết trình của dự án.
