@@ -30,10 +30,10 @@ Dự án được thực hiện toàn bộ trong một file Jupyter Notebook duy
 <pre> ```
   ├── Documents
   ├── data/
-  │ ├── file1.csv
-  │ ├── file2.csv
-  │ ├── file3.csv
-  │ └── file4.csv
+  │ ├── movies.csv
+  │ ├── ratings.csv
+  │ ├── tags.csv
+  │ └── user.csv
   ├── MLcuoiky.ipynb
   ├── README.md
   └── library.txt 
