@@ -34,15 +34,15 @@ Dự án được thực hiện toàn bộ trong một file Jupyter Notebook duy
   │ ├── file2.csv
   │ ├── file3.csv
   │ └── file4.csv
-  ├── notebook.ipynb
+  ├── MLcuoiky.ipynb
   ├── README.md
-  └── requirements.txt 
+  └── library.txt 
   ``` </pre>
 
 - `Documents`: Chứa báo cáo và slide thuyết trình của dự án.
 - `data/`: Chứa dữ liệu CSV sử dụng trong dự án.
-- `notebook.ipynb`: File chính với toàn bộ code và phân tích.
-- `requirements.txt`: Danh sách thư viện cần cài đặt.
+- `MLcuoiky.ipynb`: File chính với toàn bộ code và phân tích.
+- `library.txt`: Danh sách thư viện cần cài đặt.
 - `README.md`: Mô tả dự án.
 
 ---
