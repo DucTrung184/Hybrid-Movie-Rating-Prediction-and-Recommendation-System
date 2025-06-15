@@ -22,7 +22,7 @@ Dự án được thực hiện toàn bộ trong một file Jupyter Notebook duy
 
 - Kết hợp mô hình:
   - Sử dụng Random Forest đối với các cold-start, ngược lại dùng CF.
-  - Sử dụng trọng số cho RF và CF từ việc xác định mức độ "mới" của người dùng và phim ảnh để tăng độ chính xác của dự án.
+  - Sử dụng trọng số cho RF và CF từ việc xác định mức độ "mới" của người dùng và phim để tăng độ chính xác của mô hình.
 
 ---
 
