@@ -27,7 +27,7 @@ Dự án được thực hiện toàn bộ trong một file Jupyter Notebook duy
 ---
 
 ## 📁 **Cấu trúc thư mục**
-<pre> ``` project_root/
+<pre> ```
   ├── Documents
   ├── data/
   │ ├── file1.csv
@@ -35,7 +35,8 @@ Dự án được thực hiện toàn bộ trong một file Jupyter Notebook duy
   │ ├── file3.csv
   │ └── file4.csv
   ├── notebook.ipynb
-  ├── README.md└── requirements.txt ``` </pre>
+  ├── README.md└── requirements.txt 
+  ``` </pre>
 
 - `Documents`: Chứa báo cáo và slide thuyết trình của dự án.
 - `data/`: Chứa dữ liệu CSV sử dụng trong dự án.
