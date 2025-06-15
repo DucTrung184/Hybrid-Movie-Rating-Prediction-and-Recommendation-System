@@ -1,0 +1,27 @@
+ # Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+
+
+# OS file
+Thumbs.db    # Windows
+
+
+
+# Virtual environment 
+venv/
+ENV/
+env/
+.venv/
+
+
+
+# Password or API 
+.env
