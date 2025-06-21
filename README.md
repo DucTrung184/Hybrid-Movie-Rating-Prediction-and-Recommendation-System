@@ -28,7 +28,7 @@ Dự án được thực hiện toàn bộ trong một file Jupyter Notebook duy
 
 ## 📁 **Cấu trúc thư mục**
 <pre> ```
-  ├── Documents
+  ├── Document
   ├── data/
   │ ├── movies.csv
   │ ├── ratings.csv
@@ -39,7 +39,7 @@ Dự án được thực hiện toàn bộ trong một file Jupyter Notebook duy
   └── library.txt 
   ``` </pre>
 
-- `Documents`: Chứa báo cáo và slide thuyết trình của dự án.
+- `Document`: Chứa slide thuyết trình của dự án.
 - `data/`: Chứa dữ liệu CSV sử dụng trong dự án.
 - `MLcuoiky.ipynb`: File chính với toàn bộ code và phân tích.
 - `library.txt`: Danh sách thư viện cần cài đặt.
