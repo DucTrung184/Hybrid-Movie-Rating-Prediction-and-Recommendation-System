@@ -35,6 +35,7 @@ Dự án được thực hiện toàn bộ trong một file Jupyter Notebook duy
   │ ├── tags.csv
   │ └── user.csv
   ├── MLcuoiky.ipynb
+  ├── .gitignore
   ├── README.md
   └── library.txt 
   ``` </pre>
